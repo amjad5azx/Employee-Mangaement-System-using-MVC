@@ -1,0 +1,701 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|d:\\practice\\projects\\employee mangaement system using mvc\\backend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|d:\\practice\\projects\\employee mangaement system using mvc\\backend\\backend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|solutionrelative:backend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|d:\\practice\\projects\\employee mangaement system using mvc\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|d:\\practice\\projects\\employee mangaement system using mvc\\backend\\backend\\repositories\\teamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|solutionrelative:backend\\repositories\\teamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|d:\\practice\\projects\\employee mangaement system using mvc\\backend\\backend\\repositories\\organizationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|solutionrelative:backend\\repositories\\organizationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|d:\\practice\\projects\\employee mangaement system using mvc\\backend\\backend\\repositories\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|solutionrelative:backend\\repositories\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|d:\\practice\\projects\\employee mangaement system using mvc\\backend\\backend\\repositories\\userdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|solutionrelative:backend\\repositories\\userdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|d:\\practice\\projects\\employee mangaement system using mvc\\backend\\backend\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|solutionrelative:backend\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|d:\\practice\\projects\\employee mangaement system using mvc\\backend\\backend\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|solutionrelative:backend\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|d:\\practice\\projects\\employee mangaement system using mvc\\backend\\backend\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|d:\\practice\\projects\\employee mangaement system using mvc\\backend\\backend\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|d:\\practice\\projects\\employee mangaement system using mvc\\backend\\backend\\repositories\\deletion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|solutionrelative:backend\\repositories\\deletion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|d:\\practice\\projects\\employee mangaement system using mvc\\backend\\backend\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|solutionrelative:backend\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|d:\\practice\\projects\\employee mangaement system using mvc\\backend\\backend\\controllers\\organizationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\organizationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|d:\\practice\\projects\\employee mangaement system using mvc\\backend\\backend\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|solutionrelative:backend\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|d:\\practice\\projects\\employee mangaement system using mvc\\backend\\backend\\models\\userdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|solutionrelative:backend\\models\\userdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|d:\\practice\\projects\\employee mangaement system using mvc\\backend\\backend\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|solutionrelative:backend\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|d:\\practice\\projects\\employee mangaement system using mvc\\backend\\backend\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|d:\\practice\\projects\\employee mangaement system using mvc\\backend\\backend\\controllers\\teamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\teamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|d:\\practice\\projects\\employee mangaement system using mvc\\backend\\backend\\models\\organization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|solutionrelative:backend\\models\\organization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|d:\\practice\\projects\\employee mangaement system using mvc\\backend\\backend\\controllers\\userdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\userdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|d:\\practice\\projects\\employee mangaement system using mvc\\backend\\backend\\dtos\\userdetailupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|solutionrelative:backend\\dtos\\userdetailupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|d:\\practice\\projects\\employee mangaement system using mvc\\backend\\backend\\dtos\\userdetailcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|solutionrelative:backend\\dtos\\userdetailcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|d:\\practice\\projects\\employee mangaement system using mvc\\backend\\backend\\dtos\\teamupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|solutionrelative:backend\\dtos\\teamupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|d:\\practice\\projects\\employee mangaement system using mvc\\backend\\backend\\dtos\\teamcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|solutionrelative:backend\\dtos\\teamcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|d:\\practice\\projects\\employee mangaement system using mvc\\backend\\backend\\dtos\\roleupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|solutionrelative:backend\\dtos\\roleupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|d:\\practice\\projects\\employee mangaement system using mvc\\backend\\backend\\dtos\\rolecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|solutionrelative:backend\\dtos\\rolecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|d:\\practice\\projects\\employee mangaement system using mvc\\backend\\backend\\dtos\\employeeupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|solutionrelative:backend\\dtos\\employeeupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|d:\\practice\\projects\\employee mangaement system using mvc\\backend\\backend\\dtos\\employeecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|solutionrelative:backend\\dtos\\employeecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|d:\\practice\\projects\\employee mangaement system using mvc\\backend\\backend\\dtos\\organizationupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|solutionrelative:backend\\dtos\\organizationupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|d:\\practice\\projects\\employee mangaement system using mvc\\backend\\backend\\dtos\\organizationcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|solutionrelative:backend\\dtos\\organizationcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|d:\\practice\\projects\\employee mangaement system using mvc\\backend\\backend\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|solutionrelative:backend\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|d:\\practice\\projects\\employee mangaement system using mvc\\backend\\backend\\dtos\\departmentupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|solutionrelative:backend\\dtos\\departmentupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|d:\\practice\\projects\\employee mangaement system using mvc\\backend\\backend\\dtos\\departmentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|solutionrelative:backend\\dtos\\departmentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|d:\\practice\\projects\\employee mangaement system using mvc\\backend\\backend\\repositories\\iuserdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|solutionrelative:backend\\repositories\\iuserdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|d:\\practice\\projects\\employee mangaement system using mvc\\backend\\backend\\repositories\\iteamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|solutionrelative:backend\\repositories\\iteamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|d:\\practice\\projects\\employee mangaement system using mvc\\backend\\backend\\repositories\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|solutionrelative:backend\\repositories\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|d:\\practice\\projects\\employee mangaement system using mvc\\backend\\backend\\repositories\\iorganizationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|solutionrelative:backend\\repositories\\iorganizationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|d:\\practice\\projects\\employee mangaement system using mvc\\backend\\backend\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|solutionrelative:backend\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|d:\\practice\\projects\\employee mangaement system using mvc\\backend\\backend\\repositories\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A7637F-220C-452A-961A-3C3BEB41D045}|Backend\\Backend.csproj|solutionrelative:backend\\repositories\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserDetailRepository.cs",
+              "DocumentMoniker": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\Repositories\\UserDetailRepository.cs",
+              "RelativeDocumentMoniker": "Backend\\Repositories\\UserDetailRepository.cs",
+              "ToolTip": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\Repositories\\UserDetailRepository.cs",
+              "RelativeToolTip": "Backend\\Repositories\\UserDetailRepository.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAUwDUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T10:00:18.929Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DepartmentRepository.cs",
+              "DocumentMoniker": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\Repositories\\DepartmentRepository.cs",
+              "RelativeDocumentMoniker": "Backend\\Repositories\\DepartmentRepository.cs",
+              "ToolTip": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\Repositories\\DepartmentRepository.cs",
+              "RelativeToolTip": "Backend\\Repositories\\DepartmentRepository.cs",
+              "ViewState": "AQIAACMAAACAmZmZmZkBwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T11:28:38.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Backend\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Backend\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAABAAAAAgmpmZmZknwBsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T12:12:06.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\appsettings.json",
+              "RelativeDocumentMoniker": "Backend\\appsettings.json",
+              "ToolTip": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\appsettings.json",
+              "RelativeToolTip": "Backend\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-03T12:06:06.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrganizationRepository.cs",
+              "DocumentMoniker": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\Repositories\\OrganizationRepository.cs",
+              "RelativeDocumentMoniker": "Backend\\Repositories\\OrganizationRepository.cs",
+              "ToolTip": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\Repositories\\OrganizationRepository.cs",
+              "RelativeToolTip": "Backend\\Repositories\\OrganizationRepository.cs",
+              "ViewState": "AQIAABwAAACQmZmZmZkhwCcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T10:34:12.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Backend\\Program.cs",
+              "ToolTip": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\Program.cs",
+              "RelativeToolTip": "Backend\\Program.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAawDwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T12:08:05.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TeamRepository.cs",
+              "DocumentMoniker": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\Repositories\\TeamRepository.cs",
+              "RelativeDocumentMoniker": "Backend\\Repositories\\TeamRepository.cs",
+              "ToolTip": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\Repositories\\TeamRepository.cs",
+              "RelativeToolTip": "Backend\\Repositories\\TeamRepository.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAzwCUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T10:20:56.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Backend\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "Backend\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AQIAACAAAAAwMzMzMzMnwC4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T11:33:29.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RoleRepository.cs",
+              "DocumentMoniker": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\Repositories\\RoleRepository.cs",
+              "RelativeDocumentMoniker": "Backend\\Repositories\\RoleRepository.cs",
+              "ToolTip": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\Repositories\\RoleRepository.cs",
+              "RelativeToolTip": "Backend\\Repositories\\RoleRepository.cs",
+              "ViewState": "AQIAACMAAADglZmZmZkrwCUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T11:37:34.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "Backend\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AQIAAC8AAADgZWZmZmYuwDgAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T11:48:00.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\RolesController.cs",
+              "ToolTip": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "Backend\\Controllers\\RolesController.cs",
+              "ViewState": "AQIAACoAAACA//////8kwE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T11:58:40.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Deletion.cs",
+              "DocumentMoniker": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\Repositories\\Deletion.cs",
+              "RelativeDocumentMoniker": "Backend\\Repositories\\Deletion.cs",
+              "ToolTip": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\Repositories\\Deletion.cs",
+              "RelativeToolTip": "Backend\\Repositories\\Deletion.cs",
+              "ViewState": "AQIAAA4AAAAAZGZmZmY8wBkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:02:45.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Backend\\Models\\Role.cs",
+              "ToolTip": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\Models\\Role.cs",
+              "RelativeToolTip": "Backend\\Models\\Role.cs",
+              "ViewState": "AQIAAAcAAABAMzMzMzMlwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T08:05:14.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrganizationsController.cs",
+              "DocumentMoniker": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\Controllers\\OrganizationsController.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\OrganizationsController.cs",
+              "ToolTip": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\Controllers\\OrganizationsController.cs",
+              "RelativeToolTip": "Backend\\Controllers\\OrganizationsController.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAiwEoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T11:57:05.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Backend\\Models\\Department.cs",
+              "ToolTip": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\Models\\Department.cs",
+              "RelativeToolTip": "Backend\\Models\\Department.cs",
+              "ViewState": "AQIAAAMAAABIZmZmZmYiwAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T11:46:15.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\EmployeesController.cs",
+              "ToolTip": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Backend\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAiwFkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T11:49:49.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserDetail.cs",
+              "DocumentMoniker": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\Models\\UserDetail.cs",
+              "RelativeDocumentMoniker": "Backend\\Models\\UserDetail.cs",
+              "ToolTip": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\Models\\UserDetail.cs",
+              "RelativeToolTip": "Backend\\Models\\UserDetail.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAIwA4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T07:26:52.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Team.cs",
+              "DocumentMoniker": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\Models\\Team.cs",
+              "RelativeDocumentMoniker": "Backend\\Models\\Team.cs",
+              "ToolTip": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\Models\\Team.cs",
+              "RelativeToolTip": "Backend\\Models\\Team.cs",
+              "ViewState": "AQIAAAYAAAAALzMzMzMDwA4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T12:01:10.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TeamsController.cs",
+              "DocumentMoniker": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\Controllers\\TeamsController.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\TeamsController.cs",
+              "ToolTip": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\Controllers\\TeamsController.cs",
+              "RelativeToolTip": "Backend\\Controllers\\TeamsController.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAiwFYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T12:02:13.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Organization.cs",
+              "DocumentMoniker": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\Models\\Organization.cs",
+              "RelativeDocumentMoniker": "Backend\\Models\\Organization.cs",
+              "ToolTip": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\Models\\Organization.cs",
+              "RelativeToolTip": "Backend\\Models\\Organization.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAwwAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T11:43:17.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserDetailUpdateDto.cs",
+              "DocumentMoniker": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\DTOs\\UserDetailUpdateDto.cs",
+              "RelativeDocumentMoniker": "Backend\\DTOs\\UserDetailUpdateDto.cs",
+              "ToolTip": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\DTOs\\UserDetailUpdateDto.cs",
+              "RelativeToolTip": "Backend\\DTOs\\UserDetailUpdateDto.cs",
+              "ViewState": "AQIAAAYAAACwzMzMzMwqwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T12:05:03.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserDetailCreateDto.cs",
+              "DocumentMoniker": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\DTOs\\UserDetailCreateDto.cs",
+              "RelativeDocumentMoniker": "Backend\\DTOs\\UserDetailCreateDto.cs",
+              "ToolTip": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\DTOs\\UserDetailCreateDto.cs",
+              "RelativeToolTip": "Backend\\DTOs\\UserDetailCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T12:04:41.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserDetailsController.cs",
+              "DocumentMoniker": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\Controllers\\UserDetailsController.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\UserDetailsController.cs",
+              "ToolTip": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\Controllers\\UserDetailsController.cs",
+              "RelativeToolTip": "Backend\\Controllers\\UserDetailsController.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAiwFQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T12:04:21.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TeamUpdateDto.cs",
+              "DocumentMoniker": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\DTOs\\TeamUpdateDto.cs",
+              "RelativeDocumentMoniker": "Backend\\DTOs\\TeamUpdateDto.cs",
+              "ToolTip": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\DTOs\\TeamUpdateDto.cs",
+              "RelativeToolTip": "Backend\\DTOs\\TeamUpdateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T12:02:50.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TeamCreateDto.cs",
+              "DocumentMoniker": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\DTOs\\TeamCreateDto.cs",
+              "RelativeDocumentMoniker": "Backend\\DTOs\\TeamCreateDto.cs",
+              "ToolTip": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\DTOs\\TeamCreateDto.cs",
+              "RelativeToolTip": "Backend\\DTOs\\TeamCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T12:02:37.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RoleUpdateDto.cs",
+              "DocumentMoniker": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\DTOs\\RoleUpdateDto.cs",
+              "RelativeDocumentMoniker": "Backend\\DTOs\\RoleUpdateDto.cs",
+              "ToolTip": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\DTOs\\RoleUpdateDto.cs",
+              "RelativeToolTip": "Backend\\DTOs\\RoleUpdateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T11:59:50.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RoleCreateDto.cs",
+              "DocumentMoniker": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\DTOs\\RoleCreateDto.cs",
+              "RelativeDocumentMoniker": "Backend\\DTOs\\RoleCreateDto.cs",
+              "ToolTip": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\DTOs\\RoleCreateDto.cs",
+              "RelativeToolTip": "Backend\\DTOs\\RoleCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T11:57:33.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EmployeeUpdateDto.cs",
+              "DocumentMoniker": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\DTOs\\EmployeeUpdateDto.cs",
+              "RelativeDocumentMoniker": "Backend\\DTOs\\EmployeeUpdateDto.cs",
+              "ToolTip": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\DTOs\\EmployeeUpdateDto.cs",
+              "RelativeToolTip": "Backend\\DTOs\\EmployeeUpdateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T11:55:06.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "EmployeeCreateDto.cs",
+              "DocumentMoniker": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\DTOs\\EmployeeCreateDto.cs",
+              "RelativeDocumentMoniker": "Backend\\DTOs\\EmployeeCreateDto.cs",
+              "ToolTip": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\DTOs\\EmployeeCreateDto.cs",
+              "RelativeToolTip": "Backend\\DTOs\\EmployeeCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T11:55:02.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "OrganizationUpdateDto.cs",
+              "DocumentMoniker": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\DTOs\\OrganizationUpdateDto.cs",
+              "RelativeDocumentMoniker": "Backend\\DTOs\\OrganizationUpdateDto.cs",
+              "ToolTip": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\DTOs\\OrganizationUpdateDto.cs",
+              "RelativeToolTip": "Backend\\DTOs\\OrganizationUpdateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T11:53:22.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "OrganizationCreateDto.cs",
+              "DocumentMoniker": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\DTOs\\OrganizationCreateDto.cs",
+              "RelativeDocumentMoniker": "Backend\\DTOs\\OrganizationCreateDto.cs",
+              "ToolTip": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\DTOs\\OrganizationCreateDto.cs",
+              "RelativeToolTip": "Backend\\DTOs\\OrganizationCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T11:53:14.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Backend\\Models\\Employee.cs",
+              "ToolTip": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\Models\\Employee.cs",
+              "RelativeToolTip": "Backend\\Models\\Employee.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAowBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T11:49:17.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DepartmentUpdateDto.cs",
+              "DocumentMoniker": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\DTOs\\DepartmentUpdateDto.cs",
+              "RelativeDocumentMoniker": "Backend\\DTOs\\DepartmentUpdateDto.cs",
+              "ToolTip": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\DTOs\\DepartmentUpdateDto.cs",
+              "RelativeToolTip": "Backend\\DTOs\\DepartmentUpdateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T11:48:34.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DepartmentCreateDto.cs",
+              "DocumentMoniker": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\DTOs\\DepartmentCreateDto.cs",
+              "RelativeDocumentMoniker": "Backend\\DTOs\\DepartmentCreateDto.cs",
+              "ToolTip": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\DTOs\\DepartmentCreateDto.cs",
+              "RelativeToolTip": "Backend\\DTOs\\DepartmentCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T11:48:26.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ITeamRepository.cs",
+              "DocumentMoniker": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\Repositories\\ITeamRepository.cs",
+              "RelativeDocumentMoniker": "Backend\\Repositories\\ITeamRepository.cs",
+              "ToolTip": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\Repositories\\ITeamRepository.cs",
+              "RelativeToolTip": "Backend\\Repositories\\ITeamRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T09:29:39.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IUserDetailRepository.cs",
+              "DocumentMoniker": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\Repositories\\IUserDetailRepository.cs",
+              "RelativeDocumentMoniker": "Backend\\Repositories\\IUserDetailRepository.cs",
+              "ToolTip": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\Repositories\\IUserDetailRepository.cs",
+              "RelativeToolTip": "Backend\\Repositories\\IUserDetailRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T10:34:05.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IRoleRepository.cs",
+              "DocumentMoniker": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\Repositories\\IRoleRepository.cs",
+              "RelativeDocumentMoniker": "Backend\\Repositories\\IRoleRepository.cs",
+              "ToolTip": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\Repositories\\IRoleRepository.cs",
+              "RelativeToolTip": "Backend\\Repositories\\IRoleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T10:33:45.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IOrganizationRepository.cs",
+              "DocumentMoniker": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\Repositories\\IOrganizationRepository.cs",
+              "RelativeDocumentMoniker": "Backend\\Repositories\\IOrganizationRepository.cs",
+              "ToolTip": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\Repositories\\IOrganizationRepository.cs",
+              "RelativeToolTip": "Backend\\Repositories\\IOrganizationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T10:33:37.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\Repositories\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Backend\\Repositories\\IEmployeeRepository.cs",
+              "ToolTip": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\Repositories\\IEmployeeRepository.cs",
+              "RelativeToolTip": "Backend\\Repositories\\IEmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T10:33:31.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IDepartmentRepository.cs",
+              "DocumentMoniker": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\Repositories\\IDepartmentRepository.cs",
+              "RelativeDocumentMoniker": "Backend\\Repositories\\IDepartmentRepository.cs",
+              "ToolTip": "D:\\Practice\\Projects\\Employee Mangaement System using MVC\\Backend\\Backend\\Repositories\\IDepartmentRepository.cs",
+              "RelativeToolTip": "Backend\\Repositories\\IDepartmentRepository.cs",
+              "ViewState": "AQIAAAIAAACAMTMzMzMLwAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T10:33:22.67Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
